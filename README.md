@@ -4,6 +4,8 @@ This guide will walk you through the process of setting up a schedule to run a s
 
 ## Prerequisites
 
+Credit for the guide goes to **tieonlinux**
+
 Before you begin, make sure you have the following:
 
 - The PowerShell script that you want to schedule.
